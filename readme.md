@@ -18,7 +18,7 @@ Multiple Projects in this one course
 ### Section 1 - Modular Castle
 - Part 1: Section Intro - Modular Castle
 
-[![Section Intro - Modular Castle](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Section Intro - Modular Castle](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Castle Wall
 
 [![Castle Wall](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
