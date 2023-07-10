@@ -21,10 +21,10 @@ Multiple Projects in this one course
 [![Section Intro - Modular Castle](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Castle Wall
 
-[![Castle Wall](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Castle Wall](./Renders/Thumb%20-%20Section1-2.png)](./Renders/Section1-2.png)
 - Part 3: Castle Tower
 
-[![Castle Tower](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Castle Tower](./Renders/Thumb%20-%20Section1-3.png)](./Renders/Section1-3.png)
 - Part 4: Smooth Shading
 
 [![Smooth Shading](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
