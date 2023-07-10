@@ -27,7 +27,7 @@ Multiple Projects in this one course
 [![Castle Tower](./Renders/Thumb%20-%20Section1-3.png)](./Renders/Section1-3.png)
 - Part 4: Smooth Shading
 
-[![Smooth Shading](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Smooth Shading](./Renders/Thumb%20-%20Section1-4.png)](./Renders/Section1-4.png)
 - Part 5: Duplicating Objects
 
 [![Duplicating Objects](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
