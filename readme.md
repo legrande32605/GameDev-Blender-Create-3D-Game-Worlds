@@ -53,7 +53,7 @@ Multiple Projects in this one course
 [![Basics of UV Mapping](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 3: Spooky Corridor UV Unwrapping
 
-[![Spooky Corridor UV Unwrapping](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Spooky Corridor UV Unwrapping](./Renders/Thumb%20-%20Section2-3.png)](./Renders/Section2-3.png)
 - Part 4: Mirror Modifier
 
 [![Mirror Modifier](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
