@@ -50,7 +50,7 @@ Multiple Projects in this one course
 [![Section Intro - Spooky Corridor](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Basics of UV Mapping
 
-[![Basics of UV Mapping](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Basics of UV Mapping](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 3: Spooky Corridor UV Unwrapping
 
 [![Spooky Corridor UV Unwrapping](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
