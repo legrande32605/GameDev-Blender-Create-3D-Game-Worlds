@@ -30,7 +30,7 @@ Multiple Projects in this one course
 [![Smooth Shading](./Renders/Thumb%20-%20Section1-4.png)](./Renders/Section1-4.png)
 - Part 5: Duplicating Objects
 
-[![Duplicating Objects](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Duplicating Objects](./Renders/Thumb%20-%20Section1-5.png)](./Renders/Section1-5.png)
 - Part 6: Castle Landscape
 
 [![Castle Landscape](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
