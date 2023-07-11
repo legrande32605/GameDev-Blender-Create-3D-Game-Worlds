@@ -59,7 +59,7 @@ Multiple Projects in this one course
 [![Mirror Modifier](./Renders/Thumb%20-%20Section2-4.png)](./Renders/Section2-4.png)
 - Part 5: Making Seams
 
-[![Making Seams](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Making Seams](./Renders/Thumb%20-%20Section2-5.png)](./Renders/Section2-5.png)
 - Part 6: Subdivision Surface Modifier
 
 [![Subdivision Surface Modifier](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
