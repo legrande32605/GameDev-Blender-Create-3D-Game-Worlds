@@ -36,13 +36,13 @@ Multiple Projects in this one course
 [![Castle Landscape](./Renders/Thumb%20-%20Section1-6.png)](./Renders/Section1-6.png)
 - Part 7: Castle Materials
 
-[![Castle Materials](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Castle Materials](./Renders/Thumb%20-%20Section1-7.png)](./Renders/Section1-7.png)
 - Part 8: Flags & Turrets
 
-[![Flags & Turrets](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Flags & Turrets](./Renders/Thumb%20-%20Section1-8.png)](./Renders/Section1-8.png)
 - Part 9: Section Completion
 
-[![Section Completion](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Section Completion](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
 
 ### Section 2 Spooky Corridor - UV Mapping
 - Part 1: Section Intro - Spooky Corridor
