@@ -33,7 +33,7 @@ Multiple Projects in this one course
 [![Duplicating Objects](./Renders/Thumb%20-%20Section1-5.png)](./Renders/Section1-5.png)
 - Part 6: Castle Landscape
 
-[![Castle Landscape](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Castle Landscape](./Renders/Thumb%20-%20Section1-6.png)](./Renders/Section1-6.png)
 - Part 7: Castle Materials
 
 [![Castle Materials](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
