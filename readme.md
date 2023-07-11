@@ -56,7 +56,7 @@ Multiple Projects in this one course
 [![Spooky Corridor UV Unwrapping](./Renders/Thumb%20-%20Section2-3.png)](./Renders/Section2-3.png)
 - Part 4: Mirror Modifier
 
-[![Mirror Modifier](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Mirror Modifier](./Renders/Thumb%20-%20Section2-4.png)](./Renders/Section2-4.png)
 - Part 5: Making Seams
 
 [![Making Seams](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
