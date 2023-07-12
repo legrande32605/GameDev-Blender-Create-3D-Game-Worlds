@@ -18,7 +18,7 @@ Multiple Projects in this one course
 ### Section 1 - Modular Castle
 - Part 1: Section Intro - Modular Castle
 
-[![Section Intro - Modular Castle](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
+[![Section Intro - Modular Castle](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Castle Wall
 
 [![Castle Wall](./Renders/Thumb%20-%20Section1-2.png)](./Renders/Section1-2.png)
@@ -42,15 +42,15 @@ Multiple Projects in this one course
 [![Flags & Turrets](./Renders/Thumb%20-%20Section1-8.png)](./Renders/Section1-8.png)
 - Part 9: Section Completion
 
-[![Section Completion](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
+[![Section Completion](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 
 ### Section 2 Spooky Corridor - UV Mapping
 - Part 1: Section Intro - Spooky Corridor
 
-[![Section Intro - Spooky Corridor](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
+[![Section Intro - Spooky Corridor](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Basics of UV Mapping
 
-[![Basics of UV Mapping](./Renders/Thumb%20-%20nothing.png)](./Renders/nothing.png)
+[![Basics of UV Mapping](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 3: Spooky Corridor UV Unwrapping
 
 [![Spooky Corridor UV Unwrapping](./Renders/Thumb%20-%20Section2-3.png)](./Renders/Section2-3.png)
