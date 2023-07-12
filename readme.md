@@ -62,7 +62,7 @@ Multiple Projects in this one course
 [![Making Seams](./Renders/Thumb%20-%20Section2-5.png)](./Renders/Section2-5.png)
 - Part 6: Subdivision Surface Modifier
 
-[![Subdivision Surface Modifier](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Subdivision Surface Modifier](./Renders/Thumb%20-%20Section2-6.png)](./Renders/Section2-6.png)
 - Part 7: Generated Texture Coordinates
 
 [![Generated Texture Coordinates](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
