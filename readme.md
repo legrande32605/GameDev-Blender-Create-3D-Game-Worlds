@@ -65,7 +65,7 @@ Multiple Projects in this one course
 [![Subdivision Surface Modifier](./Renders/Thumb%20-%20Section2-6.png)](./Renders/Section2-6.png)
 - Part 7: Generated Texture Coordinates
 
-[![Generated Texture Coordinates](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Generated Texture Coordinates](./Renders/Thumb%20-%20Section2-7.png)](./Renders/Section2-7.png)
 - Part 8: Toxic Barrel
 
 [![Toxic Barrel](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
