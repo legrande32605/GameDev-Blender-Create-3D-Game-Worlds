@@ -71,7 +71,7 @@ Multiple Projects in this one course
 [![Toxic Barrel](./Renders/Thumb%20-%20Section2-8.png)](./Renders/Section2-8.png)
 - Part 9: Section Completion
 
-[![Section Completion](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Section Completion](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 
 ### Section 3 Rocks & Trees
 - Part 1: Section Intro - Rocks & Trees
