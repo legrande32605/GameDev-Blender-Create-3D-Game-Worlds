@@ -68,7 +68,7 @@ Multiple Projects in this one course
 [![Generated Texture Coordinates](./Renders/Thumb%20-%20Section2-7.png)](./Renders/Section2-7.png)
 - Part 8: Toxic Barrel
 
-[![Toxic Barrel](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Toxic Barrel](./Renders/Thumb%20-%20Section2-8.png)](./Renders/Section2-8.png)
 - Part 9: Section Completion
 
 [![Section Completion](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
