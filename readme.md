@@ -85,7 +85,7 @@ Multiple Projects in this one course
 [![PBR Materials](./Renders/Thumb%20-%20Section3-3.png)](./Renders/Section3-3.png)
 - Part 4: Displacement
 
-[![Displacement](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Displacement](./Renders/Thumb%20-%20Section3-4.png)](./Renders/Section3-4.png)
 - Part 5: Sculpting Trees
 
 [![Sculpting Trees](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
