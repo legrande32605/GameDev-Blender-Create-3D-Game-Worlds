@@ -76,7 +76,7 @@ Multiple Projects in this one course
 ### Section 3 Rocks & Trees
 - Part 1: Section Intro - Rocks & Trees
 
-[![Section Intro - Rocks & Trees](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Section Intro - Rocks & Trees](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Sculpting Rocks
 
 [![Sculpting Rocks](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
