@@ -79,7 +79,7 @@ Multiple Projects in this one course
 [![Section Intro - Rocks & Trees](./Renders/thumb%20-%20nothing.png)](./Renders/nothing.png)
 - Part 2: Sculpting Rocks
 
-[![Sculpting Rocks](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![Sculpting Rocks](./Renders/Thumb%20-%20Section3-2.png)](./Renders/Section3-2.png)
 - Part 3: PBR Materials
 
 [![PBR Materials](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
