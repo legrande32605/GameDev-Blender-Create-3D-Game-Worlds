@@ -82,7 +82,7 @@ Multiple Projects in this one course
 [![Sculpting Rocks](./Renders/Thumb%20-%20Section3-2.png)](./Renders/Section3-2.png)
 - Part 3: PBR Materials
 
-[![PBR Materials](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
+[![PBR Materials](./Renders/Thumb%20-%20Section3-3.png)](./Renders/Section3-3.png)
 - Part 4: Displacement
 
 [![Displacement](./Renders/Thumb%20-%20name.png)](./Renders/name.png)
